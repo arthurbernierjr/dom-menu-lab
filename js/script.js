@@ -13,3 +13,5 @@ mainEl.innerHTML = '<h1>SEI Rocks!</h1>'
 // Task 1.3
 
 mainEl.classList.add('flex-ctr');
+
+// verify i work
